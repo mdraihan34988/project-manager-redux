@@ -1,0 +1,16 @@
+{
+    "name": "json-server-project-manager",
+    "description": "Project Manger Mock Server",
+    "version": "1.0.0",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "keywords": [],
+    "author": "Raihanul",
+    "dependencies": {
+        "json-server": "^0.17.0",
+        "json-server-auth": "^2.1.0",
+        "nodemon": "^2.0.19"
+    }
+}

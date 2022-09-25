@@ -1,0 +1,537 @@
+{
+  "users": [
+    {
+      "email": "sumit@learnwithsumit.com",
+      "password": "$2a$10$tGMlJhQmAnx7f4cIVY55FOtIRV91wjRwBhdpaANPoslku3P/aAjPK",
+      "name": "Sumit Saha",
+      "id": 1
+    },
+    {
+      "email": "akash@learnwithsumit.com",
+      "password": "$2a$10$Oc6jXnK6/pbSqmkngo/b.OhsU3JRf4OU1h9QwIoqz8ZUpG/hgHq72",
+      "name": "Akash Ahmed",
+      "id": 2
+    },
+    {
+      "email": "saad@learnwithsumit.com",
+      "password": "$2a$10$DVGOgchZrtvb1w6Pj.B0D.DXmHmoTsdy3oXfwF.02kE/pzJ7jyHqy",
+      "name": "Saad Hasan",
+      "id": 3
+    },
+    {
+      "email": "test1@gmail.com",
+      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+      "name": "Test 1",
+      "id": 4
+    },
+    {
+      "email": "test2@gmail.com",
+      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+      "name": "Test 2",
+      "id": 5
+    },
+    {
+      "email": "test3@gmail.com",
+      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+      "name": "Test 3",
+      "id": 6
+    },
+    {
+      "email": "test4@gmail.com",
+      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+      "name": "Test 4",
+      "id": 7
+    },
+    {
+      "email": "test5@gmail.com",
+      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+      "name": "Test 5",
+      "id": 8
+    },
+    {
+      "email": "test6@gmail.com",
+      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+      "name": "Test 6",
+      "id": 9
+    },
+    {
+      "email": "test7@gmail.com",
+      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+      "name": "Test 7",
+      "id": 10
+    },
+    {
+      "email": "test8@gmail.com",
+      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+      "name": "Test 8",
+      "id": 11
+    },
+    {
+      "email": "test9@gmail.com",
+      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+      "name": "Test 9",
+      "id": 12
+    },
+    {
+      "email": "test10@gmail.com",
+      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+      "name": "Test 10",
+      "id": 13
+    },
+    {
+      "email": "test11@gmail.com",
+      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+      "name": "Test 11",
+      "id": 14
+    },
+    {
+      "email": "test12@gmail.com",
+      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+      "name": "Test 12",
+      "id": 15
+    },
+    {
+      "email": "test13@gmail.com",
+      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+      "name": "Test 13",
+      "id": 16
+    },
+    {
+      "email": "test14@gmail.com",
+      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+      "name": "Test 14",
+      "id": 17
+    },
+    {
+      "email": "test15@gmail.com",
+      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+      "name": "Test 15",
+      "id": 18
+    },
+    {
+      "email": "test16@gmail.com",
+      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+      "name": "Test 16",
+      "id": 19
+    },
+    {
+      "email": "test17@gmail.com",
+      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+      "name": "Test 17",
+      "id": 20
+    },
+    {
+      "email": "test18@gmail.com",
+      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+      "name": "Test 18",
+      "id": 21
+    },
+    {
+      "email": "test19@gmail.com",
+      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+      "name": "Test 19",
+      "id": 22
+    },
+    {
+      "email": "test20@gmail.com",
+      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+      "name": "Test 20",
+      "id": 23
+    },
+    {
+      "email": "test21@gmail.com",
+      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+      "name": "Test 21",
+      "id": 24
+    },
+    {
+      "email": "test22@gmail.com",
+      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+      "name": "Test 22",
+      "id": 25
+    },
+    {
+      "email": "test23@gmail.com",
+      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+      "name": "Test 23",
+      "id": 26
+    },
+    {
+      "email": "swammia908@gmail.com",
+      "password": "$2a$10$rGfwsG2BUtpnzkNDnrDoruXMZFsHkL6TZXA2ka/yYdppUjQ5v2HJC",
+      "name": "Md. Raihanul Islam",
+      "id": 27
+    },
+    {
+      "email": "raihanul121885@gmail.com",
+      "password": "$2a$10$VInO86W2qeyqueJnJZ7UN.jpBuT29GqMaAglnpkr5/U7DblFh94we",
+      "name": "aadasd",
+      "id": 28
+    }
+  ],
+  "teams": [
+    {
+      "TeamName": "Dev",
+      "TeamDescription": "Mern stack team",
+      "TeamColor": "red",
+      "Users": [
+        {
+          "email": "swammia908@gmail.com",
+          "name": "Md. Raihanul Islam",
+          "id": 27
+        },
+        {
+          "email": "sumit@learnwithsumit.com",
+          "name": "Sumit Saha",
+          "id": 1
+        },
+        {
+          "email": "akash@learnwithsumit.com",
+          "name": "Akash Ahmed",
+          "id": 2
+        },
+        {
+          "email": "saad@learnwithsumit.com",
+          "name": "Saad Hasan",
+          "id": 3
+        },
+        {
+          "email": "test1@gmail.com",
+          "name": "Test 1",
+          "id": 4
+        },
+        {
+          "email": "test2@gmail.com",
+          "name": "Test 2",
+          "id": 5
+        },
+        {
+          "email": "test3@gmail.com",
+          "name": "Test 3",
+          "id": 6
+        },
+        {
+          "email": "test4@gmail.com",
+          "name": "Test 4",
+          "id": 7
+        }
+      ],
+      "UserList": "swammia908@gmail.com-sumit@learnwithsumit.com-akash@learnwithsumit.com-saad@learnwithsumit.com-test1@gmail.com-test2@gmail.com-test3@gmail.com-test4@gmail.com",
+      "timestamp": 1663426729385,
+      "CreatedBy": "swammia908@gmail.com",
+      "id": 1
+    },
+    {
+      "TeamName": "Design",
+      "TeamDescription": "Figma Design Team",
+      "TeamColor": "blue",
+      "Users": [
+        {
+          "email": "swammia908@gmail.com",
+          "name": "Md. Raihanul Islam",
+          "id": 27
+        },
+        {
+          "email": "sumit@learnwithsumit.com",
+          "name": "Sumit Saha",
+          "id": 1
+        },
+        {
+          "email": "akash@learnwithsumit.com",
+          "name": "Akash Ahmed",
+          "id": 2
+        },
+        {
+          "email": "saad@learnwithsumit.com",
+          "name": "Saad Hasan",
+          "id": 3
+        },
+        {
+          "email": "test1@gmail.com",
+          "name": "Test 1",
+          "id": 4
+        }
+      ],
+      "UserList": "swammia908@gmail.com-sumit@learnwithsumit.com-akash@learnwithsumit.com-saad@learnwithsumit.com-test1@gmail.com",
+      "timestamp": 1663426846089,
+      "CreatedBy": "swammia908@gmail.com",
+      "id": 2
+    },
+    {
+      "TeamName": "Tech",
+      "TeamDescription": "It is a long-established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+      "TeamColor": "green",
+      "Users": [
+        {
+          "email": "swammia908@gmail.com",
+          "name": "Md. Raihanul Islam",
+          "id": 27
+        },
+        {
+          "email": "sumit@learnwithsumit.com",
+          "name": "Sumit Saha",
+          "id": 1
+        },
+        {
+          "email": "akash@learnwithsumit.com",
+          "name": "Akash Ahmed",
+          "id": 2
+        },
+        {
+          "email": "saad@learnwithsumit.com",
+          "name": "Saad Hasan",
+          "id": 3
+        },
+        {
+          "email": "test1@gmail.com",
+          "name": "Test 1",
+          "id": 4
+        }
+      ],
+      "UserList": "swammia908@gmail.com-sumit@learnwithsumit.com-akash@learnwithsumit.com-saad@learnwithsumit.com-test1@gmail.com",
+      "timestamp": 1663428430346,
+      "CreatedBy": "swammia908@gmail.com",
+      "id": 3
+    },
+    {
+      "TeamName": "Analysis",
+      "TeamDescription": "Project analysis and requirement findings",
+      "TeamColor": "yellow",
+      "Users": [
+        {
+          "email": "swammia908@gmail.com",
+          "name": "Md. Raihanul Islam",
+          "id": 27
+        },
+        {
+          "id": 4,
+          "email": "test1@gmail.com",
+          "name": "Test 1"
+        },
+        {
+          "id": 5,
+          "email": "test2@gmail.com",
+          "name": "Test 2"
+        },
+        {
+          "id": 6,
+          "email": "test3@gmail.com",
+          "name": "Test 3"
+        },
+        {
+          "id": 7,
+          "email": "test4@gmail.com",
+          "name": "Test 4"
+        },
+        {
+          "email": "test5@gmail.com",
+          "name": "Test 5",
+          "id": 8
+        },
+        {
+          "email": "sumit@learnwithsumit.com",
+          "name": "Sumit Saha",
+          "id": 1
+        },
+        {
+          "email": "akash@learnwithsumit.com",
+          "name": "Akash Ahmed",
+          "id": 2
+        },
+        {
+          "email": "saad@learnwithsumit.com",
+          "name": "Saad Hasan",
+          "id": 3
+        },
+        {
+          "email": "test6@gmail.com",
+          "name": "Test 6",
+          "id": 9
+        },
+        {
+          "email": "test7@gmail.com",
+          "name": "Test 7",
+          "id": 10
+        },
+        {
+          "email": "test8@gmail.com",
+          "name": "Test 8",
+          "id": 11
+        },
+        {
+          "email": "test9@gmail.com",
+          "name": "Test 9",
+          "id": 12
+        },
+        {
+          "email": "test10@gmail.com",
+          "name": "Test 10",
+          "id": 13
+        },
+        {
+          "id": 14,
+          "email": "test11@gmail.com",
+          "name": "Test 11"
+        }
+      ],
+      "UserList": "swammia908@gmail.com-test1@gmail.com-test2@gmail.com-test3@gmail.com-test4@gmail.com-test5@gmail.com-sumit@learnwithsumit.com-akash@learnwithsumit.com-saad@learnwithsumit.com-test6@gmail.com-test7@gmail.com-test8@gmail.com-test9@gmail.com-test10@gmail.com-test11@gmail.com",
+      "timestamp": 1663475131705,
+      "CreatedBy": "swammia908@gmail.com",
+      "id": 4
+    },
+    {
+      "TeamName": "Management",
+      "TeamDescription": "This team will manage all other team",
+      "TeamColor": "emerald",
+      "Users": [
+        {
+          "email": "swammia908@gmail.com",
+          "name": "Md. Raihanul Islam",
+          "id": 27
+        },
+        {
+          "id": 1,
+          "email": "sumit@learnwithsumit.com",
+          "name": "Sumit Saha"
+        },
+        {
+          "id": 2,
+          "email": "akash@learnwithsumit.com",
+          "name": "Akash Ahmed"
+        }
+      ],
+      "UserList": "swammia908@gmail.com-sumit@learnwithsumit.com-akash@learnwithsumit.com",
+      "timestamp": 1663502027442,
+      "CreatedBy": "swammia908@gmail.com",
+      "id": 5
+    },
+    {
+      "TeamName": "Lead",
+      "TeamDescription": "This team will give instructions for design and dev team",
+      "TeamColor": "emerald",
+      "Users": [
+        {
+          "email": "swammia908@gmail.com",
+          "name": "Md. Raihanul Islam",
+          "id": 27
+        },
+        {
+          "id": 1,
+          "email": "sumit@learnwithsumit.com",
+          "name": "Sumit Saha"
+        },
+        {
+          "id": 2,
+          "email": "akash@learnwithsumit.com",
+          "name": "Akash Ahmed"
+        },
+        {
+          "id": 3,
+          "email": "saad@learnwithsumit.com",
+          "name": "Saad Hasan"
+        }
+      ],
+      "UserList": "swammia908@gmail.com-sumit@learnwithsumit.com-akash@learnwithsumit.com-saad@learnwithsumit.com",
+      "timestamp": 1663508851210,
+      "CreatedBy": "swammia908@gmail.com",
+      "id": 6
+    },
+    {
+      "TeamName": "Testing ",
+      "TeamDescription": "This team is concern for the testing of all the project relaease",
+      "TeamColor": "pink",
+      "Users": [
+        {
+          "email": "raihanul121885@gmail.com",
+          "name": "aadasd",
+          "id": 28
+        }
+      ],
+      "UserList": "raihanul121885@gmail.com",
+      "timestamp": 1663516201794,
+      "CreatedBy": "raihanul121885@gmail.com",
+      "id": 7
+    }
+  ],
+  "projects": [
+    {
+      "ProjectTitle": "adasd",
+      "ProjectDescription": "asdada",
+      "TeamId": 6,
+      "timestamp": 1663513973802,
+      "CreatedBy": "swammia908@gmail.com",
+      "ProjectStatus": "Backlog",
+      "id": 1
+    },
+    {
+      "ProjectTitle": "asasd",
+      "ProjectDescription": "asdada",
+      "TeamId": 4,
+      "timestamp": 1663514060106,
+      "CreatedBy": "swammia908@gmail.com",
+      "ProjectStatus": "Done",
+      "id": 2
+    },
+    {
+      "ProjectTitle": "zzzzzzzzzzz",
+      "ProjectDescription": "zzzzzzzzzzzzzzzzzz",
+      "TeamId": 7,
+      "timestamp": 1663516214242,
+      "CreatedBy": "raihanul121885@gmail.com",
+      "ProjectStatus": "Backlog",
+      "id": 3
+    },
+    {
+      "ProjectTitle": "sfsf",
+      "ProjectDescription": "sfds",
+      "TeamId": 7,
+      "timestamp": 1663516253939,
+      "CreatedBy": "raihanul121885@gmail.com",
+      "ProjectStatus": "Backlog",
+      "id": 4
+    },
+    {
+      "ProjectTitle": "dadasdas",
+      "ProjectDescription": "asdssa",
+      "TeamId": 7,
+      "timestamp": 1663516304987,
+      "CreatedBy": "raihanul121885@gmail.com",
+      "ProjectStatus": "Backlog",
+      "id": 5
+    },
+    {
+      "ProjectTitle": "dasasd",
+      "ProjectDescription": "dsasadasd",
+      "TeamId": 4,
+      "timestamp": 1663516535019,
+      "CreatedBy": "swammia908@gmail.com",
+      "ProjectStatus": "Blocked",
+      "id": 6
+    },
+    {
+      "ProjectTitle": "cvxcv",
+      "ProjectDescription": "xcvxcv",
+      "TeamId": 4,
+      "timestamp": 1663516779571,
+      "CreatedBy": "swammia908@gmail.com",
+      "ProjectStatus": "Review",
+      "id": 7
+    },
+    {
+      "ProjectTitle": "This is for tech team",
+      "TeamId": 3,
+      "timestamp": 1663684240406,
+      "CreatedBy": "swammia908@gmail.com",
+      "ProjectStatus": "Doing",
+      "id": 8
+    },
+    {
+      "ProjectTitle": "asdadsa",
+      "TeamId": 2,
+      "timestamp": 1663687059295,
+      "CreatedBy": "swammia908@gmail.com",
+      "ProjectStatus": "Ready",
+      "id": 9
+    }
+  ]
+}

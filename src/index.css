@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .conversation-row-grid {
+        height: calc(100vh - 65px);
+        grid-template-rows: auto 1fr auto;
+    }
+}
+@-webkit-keyframes glowing {
+    0% {
+      background-color: #fd987c;
+      box-shadow: 0 0 5px #fd987c;
+    }
+  
+    50% {
+      background-color: #ffdb6b;
+      box-shadow: 0 0 15px #ffdb6b;
+    }
+  
+    100% {
+      background-color: #fd987c;
+      box-shadow: 0 0 5px #fd987c;
+    }
+  }
+  
+  @keyframes glowing {
+    0% {
+      background-color: #fd987c;
+      box-shadow: 0 0 5px #fd987c;
+    }
+  
+    50% {
+      background-color: #ff706b;
+      box-shadow: 0 0 15px #ff706b;
+    }
+  
+    100% {
+      background-color: #fd987c;
+      box-shadow: 0 0 5px #fd987c;
+    }
+  }
+
+  .blink-message {
+    font-size: 14px;
+    padding-right: 15px !important;
+    padding-left: 16px !important;
+    color: #29140e !important;
+    background: transparent linear-gradient(90deg, #fd987c 0%, #ffdb6b 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+    -webkit-animation: glowing 1300ms infinite;
+            animation: glowing 1300ms infinite;
+            font-weight: bold;
+  
+  }
